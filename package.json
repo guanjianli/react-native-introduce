@@ -1,0 +1,29 @@
+{
+  "name": "react-native-introduce",
+  "version": "2.0",
+  "description": "RN App引导页",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --compilers js:babel-core/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanjianli/react-native-introduce.git"
+  },
+  "keywords": [
+    "react-native",
+    "intro",
+	"guide",
+	"startpage"
+  ],
+  "author": "liguanjian",
+  "license": "ISC",
+  "dependencies": {
+	"react-timer-mixin":"^0.13.4",
+	"prop-types":"^15.7.2"
+  },
+
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
