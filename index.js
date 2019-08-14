@@ -85,7 +85,7 @@ const defaultStyles = {
         alignItems: "center"
     },
     btnContainer: {
-        flex: 0.2,
+        flex: 0.4,
         justifyContent: "center",
         alignItems: "center",
         height: 50
